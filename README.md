@@ -1,4 +1,4 @@
-# Artist Portfolio Website
+# Celesix Portfolio Website
 
 Welcome to the portfolio website of Celesix! Explore a showcase of stunning artworks, learn about the artist's background, and get in touch.
 
